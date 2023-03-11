@@ -1,4 +1,4 @@
-# Spring-Actuator
+# SpringBoot-Actuator
 - This Spring Actuator application has several classes, and configuration files. Here is an overview of each file and its role in the application.
 
 ## Tech Stack
